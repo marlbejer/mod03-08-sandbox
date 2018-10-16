@@ -20,11 +20,13 @@
 
 .container small {
 	color: white;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 .container > p > label {
 	color: white;
 	font-size: 3em;
+	font-weight: 900;
+	letter-spacing: 3px;
 }
 .container > div {
 	margin: 60px auto;
