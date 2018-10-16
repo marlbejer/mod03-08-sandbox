@@ -1,0 +1,11 @@
+clear: both > clear
+
+div.menu
+
+div.page
+	div.sidebar
+	div.content style=clear:both
+
+div.footer
+
+overflow: hidden - horizontally cleared the floated image.
